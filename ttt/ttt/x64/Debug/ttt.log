@@ -1,0 +1,91 @@
+﻿生成启动时间为 2018-06-26 14:34:53。
+     1>项目“D:\test\C++\ceshi\ttt\ttt\ttt.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\soft\soft1\vs2012\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt t1.cpp
+         t1.cpp
+     1>t1.cpp(53): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
+     1>t1.cpp(73): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\soft\soft1\vs2012\VC\include\string.h(115) : 参见“strcat”的声明
+     1>t1.cpp(74): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\soft\soft1\vs2012\VC\include\string.h(115) : 参见“strcat”的声明
+     1>t1.cpp(75): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\soft\soft1\vs2012\VC\include\string.h(115) : 参见“strcat”的声明
+     1>t1.cpp(76): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\soft\soft1\vs2012\VC\include\string.h(115) : 参见“strcat”的声明
+     1>t1.cpp(77): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\soft\soft1\vs2012\VC\include\string.h(115) : 参见“strcat”的声明
+     1>t1.cpp(78): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\soft\soft1\vs2012\VC\include\string.h(115) : 参见“strcat”的声明
+     1>t1.cpp(79): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\soft\soft1\vs2012\VC\include\string.h(115) : 参见“strcat”的声明
+     1>t1.cpp(83): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\soft\soft1\vs2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>t1.cpp(86): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\soft\soft1\vs2012\VC\include\string.h(115) : 参见“strcat”的声明
+     1>t1.cpp(87): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\soft\soft1\vs2012\VC\include\string.h(115) : 参见“strcat”的声明
+     1>t1.cpp(88): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\soft\soft1\vs2012\VC\include\string.h(115) : 参见“strcat”的声明
+     1>t1.cpp(89): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\soft\soft1\vs2012\VC\include\string.h(115) : 参见“strcat”的声明
+     1>t1.cpp(90): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\soft\soft1\vs2012\VC\include\string.h(115) : 参见“strcat”的声明
+     1>t1.cpp(91): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\soft\soft1\vs2012\VC\include\string.h(115) : 参见“strcat”的声明
+     1>t1.cpp(92): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\soft\soft1\vs2012\VC\include\string.h(115) : 参见“strcat”的声明
+     1>t1.cpp(93): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\soft\soft1\vs2012\VC\include\string.h(115) : 参见“strcat”的声明
+     1>t1.cpp(94): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\soft\soft1\vs2012\VC\include\string.h(115) : 参见“strcat”的声明
+     1>t1.cpp(98): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\soft\soft1\vs2012\VC\include\string.h(115) : 参见“strcat”的声明
+     1>t1.cpp(99): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\soft\soft1\vs2012\VC\include\string.h(115) : 参见“strcat”的声明
+     1>t1.cpp(102): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+       Link:
+         F:\soft\soft1\vs2012\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\test\C++\ceshi\ttt\x64\Debug\ttt.exe" /INCREMENTAL /NOLOGO WS2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\test\C++\ceshi\ttt\x64\Debug\ttt.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\test\C++\ceshi\ttt\x64\Debug\ttt.lib" /MACHINE:X64 x64\Debug\t1.obj
+     1>t1.obj : error LNK2019: 无法解析的外部符号 __imp_connect，该符号在函数 "int __cdecl request(char *,char *,char *)" (?request@@YAHPEAD00@Z) 中被引用
+     1>t1.obj : error LNK2019: 无法解析的外部符号 __imp_htons，该符号在函数 "int __cdecl request(char *,char *,char *)" (?request@@YAHPEAD00@Z) 中被引用
+     1>t1.obj : error LNK2019: 无法解析的外部符号 __imp_recv，该符号在函数 "int __cdecl request(char *,char *,char *)" (?request@@YAHPEAD00@Z) 中被引用
+     1>t1.obj : error LNK2019: 无法解析的外部符号 __imp_send，该符号在函数 "int __cdecl request(char *,char *,char *)" (?request@@YAHPEAD00@Z) 中被引用
+     1>t1.obj : error LNK2019: 无法解析的外部符号 __imp_socket，该符号在函数 "int __cdecl request(char *,char *,char *)" (?request@@YAHPEAD00@Z) 中被引用
+     1>t1.obj : error LNK2019: 无法解析的外部符号 __imp_gethostbyname，该符号在函数 "int __cdecl request(char *,char *,char *)" (?request@@YAHPEAD00@Z) 中被引用
+     1>t1.obj : error LNK2019: 无法解析的外部符号 __imp_WSAStartup，该符号在函数 "int __cdecl request(char *,char *,char *)" (?request@@YAHPEAD00@Z) 中被引用
+     1>t1.obj : error LNK2019: 无法解析的外部符号 __imp_WSACleanup，该符号在函数 "int __cdecl request(char *,char *,char *)" (?request@@YAHPEAD00@Z) 中被引用
+     1>MSVCRTD.lib(atonexit.obj) : error LNK2019: 无法解析的外部符号 __imp_EncodePointer，该符号在函数 __atonexitinit 中被引用
+     1>MSVCRTD.lib(crtexe.obj) : error LNK2001: 无法解析的外部符号 __imp_EncodePointer
+     1>MSVCRTD.lib(atonexit.obj) : error LNK2019: 无法解析的外部符号 __imp_DecodePointer，该符号在函数 _onexit 中被引用
+     1>MSVCRTD.lib(crtexe.obj) : error LNK2019: 无法解析的外部符号 main，该符号在函数 __tmainCRTStartup 中被引用
+     1>MSVCRTD.lib(error.obj) : error LNK2019: 无法解析的外部符号 __imp_IsDebuggerPresent，该符号在函数 "void __cdecl failwithmessage(void *,int,int,char const *)" (?failwithmessage@@YAXPEAXHHPEBD@Z) 中被引用
+     1>MSVCRTD.lib(gs_report.obj) : error LNK2001: 无法解析的外部符号 __imp_IsDebuggerPresent
+     1>MSVCRTD.lib(error.obj) : error LNK2019: 无法解析的外部符号 __imp_RaiseException，该符号在函数 "int __cdecl DebuggerProbe(unsigned long)" (?DebuggerProbe@@YAHK@Z) 中被引用
+     1>MSVCRTD.lib(error.obj) : error LNK2019: 无法解析的外部符号 __imp_GetLastError，该符号在函数 "void __cdecl _RTC_AllocaFailure(void *,struct _RTC_ALLOCA_NODE *,int)" (?_RTC_AllocaFailure@@YAXPEAXPEAU_RTC_ALLOCA_NODE@@H@Z) 中被引用
+     1>MSVCRTD.lib(pdblkup.obj) : error LNK2001: 无法解析的外部符号 __imp_GetLastError
+     1>MSVCRTD.lib(error.obj) : error LNK2019: 无法解析的外部符号 __imp_GetProcAddress，该符号在函数 "void __cdecl _RTC_AllocaFailure(void *,struct _RTC_ALLOCA_NODE *,int)" (?_RTC_AllocaFailure@@YAXPEAXPEAU_RTC_ALLOCA_NODE@@H@Z) 中被引用
+     1>MSVCRTD.lib(pdblkup.obj) : error LNK2001: 无法解析的外部符号 __imp_GetProcAddress
+     1>MSVCRTD.lib(error.obj) : error LNK2019: 无法解析的外部符号 __imp_LoadLibraryExW，该符号在函数 "void __cdecl _RTC_AllocaFailure(void *,struct _RTC_ALLOCA_NODE *,int)" (?_RTC_AllocaFailure@@YAXPEAXPEAU_RTC_ALLOCA_NODE@@H@Z) 中被引用
+     1>MSVCRTD.lib(pdblkup.obj) : error LNK2001: 无法解析的外部符号 __imp_LoadLibraryExW
+     1>MSVCRTD.lib(error.obj) : error LNK2019: 无法解析的外部符号 __imp_lstrlenA，该符号在函数 "void __cdecl _RTC_AllocaFailure(void *,struct _RTC_ALLOCA_NODE *,int)" (?_RTC_AllocaFailure@@YAXPEAXPEAU_RTC_ALLOCA_NODE@@H@Z) 中被引用
+     1>MSVCRTD.lib(error.obj) : error LNK2019: 无法解析的外部符号 __imp_LoadLibraryW，该符号在函数 "void __cdecl _RTC_AllocaFailure(void *,struct _RTC_ALLOCA_NODE *,int)" (?_RTC_AllocaFailure@@YAXPEAXPEAU_RTC_ALLOCA_NODE@@H@Z) 中被引用
+     1>MSVCRTD.lib(pdblkup.obj) : error LNK2001: 无法解析的外部符号 __imp_LoadLibraryW
+     1>MSVCRTD.lib(error.obj) : error LNK2019: 无法解析的外部符号 __imp_MultiByteToWideChar，该符号在函数 "void __cdecl failwithmessage(void *,int,int,char const *)" (?failwithmessage@@YAXPEAXHHPEBD@Z) 中被引用
+     1>MSVCRTD.lib(error.obj) : error LNK2019: 无法解析的外部符号 __imp_WideCharToMultiByte，该符号在函数 "void __cdecl failwithmessage(void *,int,int,char const *)" (?failwithmessage@@YAXPEAXHHPEBD@Z) 中被引用
+     1>MSVCRTD.lib(gs_report.obj) : error LNK2019: 无法解析的外部符号 IsProcessorFeaturePresent，该符号在函数 __report_gsfailure 中被引用
+     1>MSVCRTD.lib(gs_support.obj) : error LNK2019: 无法解析的外部符号 __imp_QueryPerformanceCounter，该符号在函数 __security_init_cookie 中被引用
+     1>MSVCRTD.lib(gs_support.obj) : error LNK2019: 无法解析的外部符号 __imp_GetCurrentThreadId，该符号在函数 __security_init_cookie 中被引用
+     1>MSVCRTD.lib(gs_support.obj) : error LNK2019: 无法解析的外部符号 __imp_GetSystemTimeAsFileTime，该符号在函数 __security_init_cookie 中被引用
+     1>MSVCRTD.lib(gs_support.obj) : error LNK2019: 无法解析的外部符号 __imp_GetTickCount64，该符号在函数 __security_init_cookie 中被引用
+     1>MSVCRTD.lib(pdblkup.obj) : error LNK2019: 无法解析的外部符号 __imp_HeapAlloc，该符号在函数 "int __cdecl _RTC_GetSrcLine(unsigned char *,wchar_t *,unsigned long,int *,wchar_t *,unsigned long)" (?_RTC_GetSrcLine@@YAHPEAEPEA_WKPEAH1K@Z) 中被引用
+     1>MSVCRTD.lib(pdblkup.obj) : error LNK2019: 无法解析的外部符号 __imp_HeapFree，该符号在函数 "int __cdecl _RTC_GetSrcLine(unsigned char *,wchar_t *,unsigned long,int *,wchar_t *,unsigned long)" (?_RTC_GetSrcLine@@YAHPEAEPEA_WKPEAH1K@Z) 中被引用
+     1>MSVCRTD.lib(pdblkup.obj) : error LNK2019: 无法解析的外部符号 __imp_GetProcessHeap，该符号在函数 "int __cdecl _RTC_GetSrcLine(unsigned char *,wchar_t *,unsigned long,int *,wchar_t *,unsigned long)" (?_RTC_GetSrcLine@@YAHPEAEPEA_WKPEAH1K@Z) 中被引用
+     1>MSVCRTD.lib(pdblkup.obj) : error LNK2019: 无法解析的外部符号 __imp_VirtualQuery，该符号在函数 "int __cdecl _RTC_GetSrcLine(unsigned char *,wchar_t *,unsigned long,int *,wchar_t *,unsigned long)" (?_RTC_GetSrcLine@@YAHPEAEPEA_WKPEAH1K@Z) 中被引用
+     1>MSVCRTD.lib(pdblkup.obj) : error LNK2019: 无法解析的外部符号 __imp_FreeLibrary，该符号在函数 "struct HINSTANCE__ * __cdecl GetPdbDllFromInstallPath(void)" (?GetPdbDllFromInstallPath@@YAPEAUHINSTANCE__@@XZ) 中被引用
+     1>MSVCRTD.lib(pdblkup.obj) : error LNK2019: 无法解析的外部符号 __imp_GetModuleFileNameW，该符号在函数 "struct HINSTANCE__ * __cdecl GetPdbDll(void)" (?GetPdbDll@@YAPEAUHINSTANCE__@@XZ) 中被引用
+     1>MSVCRTD.lib(pdblkup.obj) : error LNK2019: 无法解析的外部符号 __imp_GetModuleHandleW，该符号在函数 "struct HINSTANCE__ * __cdecl GetPdbDll(void)" (?GetPdbDll@@YAPEAUHINSTANCE__@@XZ) 中被引用
+     1>D:\test\C++\ceshi\ttt\x64\Debug\ttt.exe : fatal error LNK1120: 32 个无法解析的外部命令
+     1>已完成生成项目“D:\test\C++\ceshi\ttt\ttt\ttt.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.82
